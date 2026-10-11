@@ -1,0 +1,15 @@
+# Secrets, local agent files and build output
+CLAUDE.md
+.env
+.env.*
+*.pem
+*.key
+*.p12
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.venv/
+venv/
+!.env.example
